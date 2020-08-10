@@ -1,0 +1,26 @@
+.redText {
+    color: red;
+}
+
+.bigText{
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.imgCenter{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+    background-color: greenyellow;
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}

@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'SideKammeratAngular';
+  titleName = 'Benjamin Tikki';
+  age = 25;
+  qualities = ['Navn er Benjamin', 'Der er Benjamin i navnet', 'Gud til HTML', 'God til SQL']
 }
